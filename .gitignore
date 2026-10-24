@@ -1,0 +1,26 @@
+
+# Eclipse settings
+.metadata/
+.settings/
+.classpath
+.project
+
+# Build output
+build/
+target/
+bin/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+logs/
+temp/
+tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
